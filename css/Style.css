@@ -1,0 +1,41 @@
+button{
+    border-radius: 10px;
+    width: 200px;
+    height:100px;
+}
+
+#plus_button{
+    background-color: rgb(133, 133, 252);
+    color: white;
+  
+
+}
+#minus_button{
+    background-color: rgb(230, 111, 111) ;
+    color: white;
+   
+    
+
+}
+
+#reset_button{
+    background-color:blanchedalmond;
+    color: black;
+ 
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    /* background-color: red; */
+    gap: 30px;
+    margin-top: 200px;
+    align-items:center;
+    justify-content:center;
+    
+
+    
+    
+}
